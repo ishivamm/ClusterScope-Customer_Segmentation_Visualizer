@@ -4,8 +4,8 @@ ClusterScope is an interactive data science web application that enables users t
 
 The project demonstrates an end-to-end **unsupervised machine learning workflow**, including data preprocessing, clustering, model evaluation, and visualization using a Streamlit-based interface.
 
-##Youtube link: https://youtu.be/Xr95QW54nvc \
-##Live App:https://clusterscope-customersegmentationvisualizer-dxrwmnzbkspugm4jky.streamlit.app/
+## Youtube link: https://youtu.be/Xr95QW54nvc \
+## Live App:https://clusterscope-customersegmentationvisualizer-dxrwmnzbkspugm4jky.streamlit.app/
 ---
 
 # Project Overview
