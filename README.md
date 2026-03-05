@@ -130,8 +130,8 @@ PCA (Principal Component Analysis)
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/ClusterScope.git
-cd ClusterScope
+git clone https://github.com/ishivamm/ClusterScope-Customer_Segmentation_Visualizer.git
+cd ClusterScope-Customer_Segmentation_Visualizer
 ```
 
 Install dependencies:
@@ -173,17 +173,7 @@ streamlit run app.py
 
 ---
 
-# Future Improvements
 
-Possible enhancements include:
-
-* Automatic optimal cluster detection
-* Interactive Plotly visualizations
-* 3D cluster visualization
-* Customer segment insights dashboard
-* Support for additional clustering algorithms (DBSCAN, Hierarchical)
-
----
 
 # License
 
